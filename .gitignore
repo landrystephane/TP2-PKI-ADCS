@@ -1,0 +1,7 @@
+# Captures brutes non renommées (doublons des captures nommées)
+Captures/Capture d*
+# Clés privées et archives : jamais publiées
+*.key
+*.pfx
+*.p12
+*.zip
